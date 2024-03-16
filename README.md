@@ -1,4 +1,4 @@
-# -3D_AI-teacher
+# 3D_AI_teacher
 Proyecto de aprendizaje : Profesor de Inglés con IA
 Descripción:
 Este proyecto tiene como objetivo crear una plataforma educativa interactiva que utilice inteligencia artificial (IA) para enseñar inglés. Nuestro profesor virtual proporcionará lecciones personalizadas y práctica de conversación. Algunas características clave incluyen:
